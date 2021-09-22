@@ -4,7 +4,7 @@
     "parameters": {
         "name": {
             "type": "string",
-            "defaultValue": "UserIdentity-RH-Project",
+            "defaultValue": "MSI1",
         },
         "location": {
             "type": "string",
