@@ -1,6 +1,6 @@
-name: Test_Template
+name: Test_Template11
 version: 1.0.0
-description: Add this new template to trip the orchestration up on resync...
+description: Add this new template to trip the orchestration up on resync...11111111111
 engine:
   type: ARM
   templatePath: azuredeploy.json
